@@ -1,5 +1,9 @@
 body {
-    background-image: url('./assets/netflixBG.png');
+    background-image: url('./assets/netflix-background.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.navbar {
+    background-color: rgba(230, 10, 21, 0.4);
 }
